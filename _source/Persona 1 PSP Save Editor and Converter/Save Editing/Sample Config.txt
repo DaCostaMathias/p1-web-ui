@@ -1,0 +1,21 @@
+[Settings]
+Language = English/Japanese
+Encrypt = on/off
+SaveAs = folder/file
+Debug = on/off
+
+[Naming Scheme]
+Characters = PSP/Revelations/Japanese
+Persona = PSP/Revelations/Japanese
+Items = PSP/Revelations/Japanese
+Equipment = PSP/Revelations/Japanese
+Demons = PSP/Revelations/Japanese
+Locations = PSP/Revelations/Japanese
+
+[Converter]
+characters = on/off
+personas = on/off
+money = on/off
+
+*Config options CASE SENSITIVE*
+Feel free to copy and paste into your own config

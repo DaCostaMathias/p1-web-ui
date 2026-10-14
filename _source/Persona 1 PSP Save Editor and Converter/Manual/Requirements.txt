@@ -1,0 +1,4 @@
+To run the PSP save decryptor and encryptor, you'll need:
+Microsoft Visual C++ Redistributable 2012 x86
+
+.NET 2.0 is need for the python launcher

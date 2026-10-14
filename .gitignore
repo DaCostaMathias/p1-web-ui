@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+
+# Tauri build artifacts (Rust toolchain output). The config, source, and
+# generated icons under src-tauri/ are committed; everything below is not.
+src-tauri/target/
+src-tauri/gen/
+src-tauri/Cargo.lock
+src-tauri/.cargo/
+src-tauri/WixTools/
